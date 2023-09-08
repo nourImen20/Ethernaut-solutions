@@ -2,7 +2,7 @@
 [Ethernaut CTF](https://ethernaut.openzeppelin.com/) solutions.
 
 ## Challenges
-- [Level0. Hello Ethernaut](#level0.-Hello--Ethernaut) 
+- [Level0. Hello Ethernaut](#level0-hello-ethernaut) 
 
     ...
 

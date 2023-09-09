@@ -24,6 +24,7 @@ tx id : ` 0x7c4be34befe92d23b13b2c5250a80ae90e302314df9470e4b1fec580a651eed9 `
 
 # Level02. Fallout
 tx id : ` 0x122e64358aeb68ae6cb9d33a5bcae9f30bf7a47b8f3a3f8d11a2bfebe64cca62 `
+
 *method:* to claim the contract's ownership: use `Fal1out()` function.
 
 [Fallout Contract](./challenges/Level2/Fallout.sol)

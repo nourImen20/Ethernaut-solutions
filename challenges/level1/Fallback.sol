@@ -10,6 +10,7 @@ contract Fallback {
     owner = msg.sender;
     contributions[msg.sender] = 1000 * (1 ether);
   }
+  
 
   modifier onlyOwner {
         require(

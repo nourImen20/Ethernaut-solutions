@@ -9,7 +9,6 @@ contract Fallout {
   mapping (address => uint) allocations;
   address payable public owner;
 
-
   /* constructor */
   function Fal1out() public payable {
     owner = msg.sender;

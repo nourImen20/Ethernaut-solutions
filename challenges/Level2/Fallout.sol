@@ -35,7 +35,7 @@ contract Fallout {
   function collectAllocations() public onlyOwner {
     msg.sender.transfer(address(this).balance);
   }
-
+  
   function allocatorBalance(address allocator) public view returns (uint) {
     return allocations[allocator];
   }
